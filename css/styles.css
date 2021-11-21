@@ -1,10 +1,16 @@
-.delani-welcome{
+.jumbotron{
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg");
+    background-size: cover;
+    height: 90vh;
     color: white;
 
 }
 #mouse{
     margin-top: 5%;
+}
+.about-us{
+    text-align: center;
+    padding: 5%;
 }
 .what-we-do{
     display: flex;
@@ -19,4 +25,7 @@
 .contact-us{
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
     padding: 5%;
+}
+#inputMessage{
+    padding: 10%;
 }
