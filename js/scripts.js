@@ -4,7 +4,11 @@ $(document).ready(function(){
         $(".design-text").toggle();
     });
     $(".development").click(function(){
-        $("img#development").toggle();;
+        $("img#development").toggle();
         $(".development-text").toggle();
-    })
+    });
+    $(".product-management").click(function(){
+        $("img#prod-management").toggle();
+        $(".product-management-text").toggle();
+    });
 })
