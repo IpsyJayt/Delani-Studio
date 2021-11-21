@@ -46,3 +46,13 @@ footer>p{
 .design-text, .development-text, .product-management-text{
     display: none;
 }
+.project-name{
+    display: none;
+}
+.work4{
+    position: relative;
+}
+#darkOps{
+    position: absolute;
+    color: white;
+}
