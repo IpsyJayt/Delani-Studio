@@ -1,5 +1,6 @@
 *{
     font-family: 'Merriweather', serif;
+    font-weight: bolder;
 
 }
 .jumbotron{
@@ -33,4 +34,15 @@
 }
 #inputMessage{
     padding: 10%;
+}
+footer{
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+}
+footer>p{
+    padding: 2.5%;
+}
+.design-text, .development-text, .product-management-text{
+    display: none;
 }
