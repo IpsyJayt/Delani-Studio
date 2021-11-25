@@ -52,20 +52,23 @@ footer>p{
 .col-md-3{
     position: relative;
 }
-#work4text, #work2text, #work1text, #work8text,#work7text{
+#work4text, #work2text, #work1text, #work7text{
     position: absolute;
     border: solid white 10px;
-    padding: 100px;
+    padding: 90px;
     top: 0px;
+    font-size: xx-large;
     color: white;
     display: none;
 }
-#work3text, #work6text,#work5text{
+#work3text, #work6text,#work8text,#work5text{
     position: absolute;
     border: solid white 10px;
-    padding: 100px;
-    top: 0px;
+    padding: 75px;
+    top:0px;
+    margin-left: 20px;
     color: blue;
     font-weight: bolder;
+    font-size: xx-large;
     display: none;
 }

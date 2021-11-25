@@ -36,7 +36,7 @@ $(document).ready(function() {
         $("#work2text").hide();
      }); 
     $("#work3").mouseenter(function() {
-       $("#work3text").hide();
+       $("#work3text").show();
     }); 
     $("#work3").mouseleave(function() {
         $("#work3text").hide();
